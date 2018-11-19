@@ -1,5 +1,3 @@
-import csv
-
 a = 'hello world'
 b = 12
 c = True
